@@ -10,4 +10,4 @@ https://huggingface.co/spaces/QuadraV/Funsound_Multiligual_Speech_Translator
 
 ![image](https://github.com/user-attachments/assets/bbcd92e3-9288-4ded-af62-c74c79de36ab)
 
-
+![image](https://github.com/user-attachments/assets/65a79243-56b4-44bf-8724-388ad413a082)
